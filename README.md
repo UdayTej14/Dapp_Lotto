@@ -1,7 +1,5 @@
 # How to Build a Lottery DApp with NextJs, Solidity, and CometChat
 
-Read the full tutorial here: [**>> How to Build a Lottery DApp with NextJs, Solidity, and CometChat**](https://daltonic.github.io)
-
 This example shows How to Build a Lottery DApp with NextJs, Solidity, and CometChat:
 
 ![Creating a Lottery](./screenshots/0.gif)
